@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'test_project_db',  
         'USER':'postgres',  
         'PASSWORD':'micael_52',  
-        'HOST':'127.0.0.1',  
+        'HOST':'django-aws-demo.c0p4vsjaj709.sa-east-1.rds.amazonaws.com',  
         'PORT':'5432' ,
     }  
 }
