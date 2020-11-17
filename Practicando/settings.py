@@ -81,7 +81,7 @@ DATABASES = {
     'default': {  
         'ENGINE': 'django.db.backends.postgresql',  
         'NAME': 'test_project_db',  
-        'USER':'postgres',  
+        'USER':'django_aws_demo',  
         'PASSWORD':'micael_52',  
         'HOST':'django-aws-demo.c0p4vsjaj709.sa-east-1.rds.amazonaws.com',  
         'PORT':'5432' ,
