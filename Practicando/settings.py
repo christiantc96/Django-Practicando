@@ -80,9 +80,9 @@ WSGI_APPLICATION = 'Practicando.wsgi.application'
 DATABASES = {  
     'default': {  
         'ENGINE': 'django.db.backends.postgresql',  
-        'NAME': 'postgres',  
-        'USER':'django',  
-        'PASSWORD':'django',  
+        'NAME': 'test_project_db',  
+        'USER':'postgres',  
+        'PASSWORD':'micael_52',  
         'HOST':'127.0.0.1',  
         'PORT':'5432' ,
     }  
